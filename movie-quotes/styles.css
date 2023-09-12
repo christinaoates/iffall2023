@@ -1,0 +1,66 @@
+
+p { 
+    font-size:14px; 
+    color: white; 
+    font-weight:bold; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+  }
+
+
+.Venkman{
+    color:red;
+    font-size: 17px;
+}
+
+.Barrett{
+    color: brown;
+    font-size: 17px;
+}
+
+.Mayor{
+  color:purple;
+  font-size: 17px;
+}
+
+.Stantz{
+  color: rebeccapurple;
+  font-size: 17px;
+}
+
+.Spengler{
+  color:orange;
+  font-size: 17px;
+}
+
+.Zeddemore{
+  color: orangered;
+  font-size: 17px;
+}
+
+.happenings{
+  font-style: italic;
+  font-size: 12px;
+  color: tan;
+}
+
+body {
+  background-color: black;
+  color: aliceblue;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 75px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  margin-left: 45px;
+}
+
+.ghostbusters{
+  width: 200px;
+  margin-left: 100px;
+}

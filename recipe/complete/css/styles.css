@@ -1,0 +1,378 @@
+
+@media  (min-width: 320px){
+    body{
+        padding-top:0%;
+        margin: 0%;
+    }
+    
+    .title{
+        color: rgb(255, 255, 255);
+        /* letter-spacing: -0.02em; */
+        text-transform: capitalize;
+        font-weight: bold;
+        font-family: 'Lexend', sans-serif;
+        font-size: 40pt;
+        margin-top: -1em;
+        margin-bottom: 1.2em;
+        padding-top: 250px;
+    }
+    
+    .content_container_bottom{
+        /* width: 320px; */
+        margin: auto;
+        padding-top:20px;
+        text-align: left;
+        padding-bottom: 0px;
+        background-color: bisque;
+        
+        
+    }
+    
+      .sub {
+        display: inline-block;
+        width: 45%;
+        color: rgb(205, 113, 68);
+        padding: 0 0rem 0 0;
+        vertical-align: middle;
+        padding-left: 10px;
+      }
+    
+    
+      .content_container1{
+        /* width: 320px; */
+        margin: auto;
+        padding-top:38.4px;
+        padding-bottom: 40px;
+        background-color:rgba(205, 114, 68, 0.343);
+        
+    }
+    
+    .content_container2{
+        /* width: 320px; */
+        margin: auto;
+        padding-top:38.4px;
+        padding-bottom: 40px;
+        background-color: bisque;
+    }
+    
+    .content_container3{
+        /* width: 320px; */
+        margin: auto;
+        padding-top:38.4px;
+        padding-bottom: 100px;
+        background-color:rgba(205, 114, 68, 0.343);
+    }
+    
+    
+      .list_box{
+        width: 320px;
+        margin: auto;
+        padding-top:20px;
+        text-align: left;
+        padding-bottom: 0px;
+        
+        
+        
+    }
+    
+      .ingredients {
+        display: block;
+        width: 320px;
+        color: rgb(205, 113, 68);
+        padding-top: 40px;
+
+      }
+    
+    
+    .instructions{
+        text-align: left;
+        padding-left: 40px;
+    }
+    
+    li{
+        padding-bottom: 20px;
+        list-style-type: none;
+        padding-left:20px;
+        padding-right:100px;
+        color: rgb(205, 113, 68);
+    }
+    
+    
+    
+    .allergy{
+      font-size:10pt;
+      font-style: italic;
+      text-align: right;
+      color: rgb(205, 113, 68);
+    }
+    
+    
+    .time-size{
+        font-size:10pt;
+        font-style: italic;
+        color: rgb(205, 113, 68);
+    }
+    
+    .subtext{
+        color: white;
+    }
+    
+    
+    
+    section{
+        background-image: url("../img/cool33.jpeg");
+        object-position: 100% 0;
+        background-color: rgba(107, 107, 107, 0.632);
+        background-size: cover;
+        text-align: left;
+    }
+    
+    .content_container{
+        width: 320px;
+        margin: auto;
+        padding-top:38.4px;
+        padding-bottom: 40px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    h2{
+        color: rgb(255, 255, 255);
+        margin-top: -2.5em;
+        margin-bottom: 1em;
+       
+    }
+    
+    h3{
+        font-size: 30pt;
+        color: rgb(205, 113, 68);
+        margin-top: -.5em;
+        font-style: normal;
+        /* padding-left: 2rem; */
+        
+    }
+    
+    h4{
+        color:rgb(205, 113, 68);
+        font-size: 20pt;
+        margin-bottom: -.5em;
+        /* padding-left:1rem; */
+    }
+    
+    .chicken{
+        padding-left: 60px;
+        padding-bottom: 10px;
+    }
+    
+    .ingredient_list{
+        padding-left:2.5rem;
+        
+    }
+    
+    p{
+        font-size: 15pt;
+        padding-left:0rem;
+        line-height: 1.4;
+        /* margin-left: 1em;; */
+        /* margin-bottom: -.5em; */
+        margin-top: 1em;
+        font-style: normal;
+        color:rgb(205, 113, 68);
+    }
+}
+
+.padding{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+@media (min-width: 904px){
+body{
+    padding-top:0%;
+    margin: 0%;
+}
+
+.title{
+    color: rgb(255, 255, 255);
+    /* letter-spacing: -0.02em; */
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: 'Lexend', sans-serif;
+    font-size: 64pt;
+    margin-top: -1em;
+    margin-bottom: 1.2em;
+    padding-top: 250px;
+}
+
+.content_container_bottom{
+    width: 904px;
+    margin: auto;
+    padding-top:20px;
+    text-align: left;
+    padding-bottom: 0px;
+    background-color: bisque;
+    
+    
+}
+
+  .sub {
+    display: inline-block;
+    width: 48%;
+    color: rgb(205, 113, 68);
+    padding: 0 0rem 0 0;
+    vertical-align: middle;
+  }
+
+
+  .content_container1{
+    width: 904px;
+    margin: auto;
+    padding-top:38.4px;
+    padding-bottom: 40px;
+    background-color:rgba(205, 114, 68, 0.343);
+}
+
+.content_container2{
+    width: 904px;
+    margin: auto;
+    padding-top:38.4px;
+    padding-bottom: 40px;
+    background-color: bisque;
+}
+
+.content_container3{
+    width: 904px;
+    margin: auto;
+    padding-top:38.4px;
+    padding-bottom: 100px;
+    background-color:rgba(205, 114, 68, 0.343);
+}
+
+
+  .list_box{
+    width: 904px;
+    margin: auto;
+    padding-top:20px;
+    text-align: left;
+    padding-bottom: 0px;
+    
+    
+    
+}
+
+  .ingredients {
+    display: inline-block;
+    width: 49%;
+    color: rgb(205, 113, 68);
+    vertical-align: top;
+  }
+
+
+.instructions{
+    text-align: center;
+}
+
+li{
+    padding-bottom: 20px;
+    list-style-type: none;
+    padding-left:20px;
+    padding-right:100px;
+    color: rgb(205, 113, 68);
+}
+
+
+
+.allergy{
+  font-size:10pt;
+  font-style: italic;
+  text-align: right;
+  color: rgb(205, 113, 68);
+}
+
+
+.time-size{
+    font-size:10pt;
+    font-style: italic;
+    color: rgb(205, 113, 68);
+}
+
+.subtext{
+    color: white;
+}
+
+
+
+section{
+    background-image: url("../img/cool33.jpeg");
+    object-position: 100% 0;
+    background-color: rgba(107, 107, 107, 0.632);
+    background-size: cover;
+    text-align: center;
+}
+
+.content_container{
+    width: 904px;
+    margin: auto;
+    padding-top:38.4px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    margin-top: -2.5em;
+    margin-bottom: 1em;
+   
+}
+
+h3{
+    font-size: 30pt;
+    color: rgb(205, 113, 68);
+    margin-top: -.5em;
+    font-style: normal;
+    padding-left: 2rem;
+    
+}
+
+h4{
+    color:rgb(205, 113, 68);
+    font-size: 20pt;
+    margin-bottom: -.5em;
+    padding-left:2rem;
+}
+
+.ingredient_list{
+    padding-left:2.5rem;
+}
+
+p{
+    font-size: 15pt;
+    padding-left:2rem;
+    line-height: 1.4;
+    margin-left: 1em;;
+    /* margin-bottom: -.5em; */
+    margin-top: 1em;
+    font-style: normal;
+    color:rgb(205, 113, 68);
+}
+}
+    @media (min-width: 640px) {
+        html 
+        { 
+        font-size: 16pt; 
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+

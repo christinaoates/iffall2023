@@ -1,0 +1,135 @@
+
+body { 
+    margin: 0;
+}
+/* -----------------------------------------nav bar--------------------------------------------- */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 27%;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: 25px;
+    line-height: 60px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    
+  }
+  
+li {
+    float: left;
+    text-align: center;
+  }
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: white;
+    color: black;
+  }
+
+.active {
+    background-color: grey;
+    color: rgb(76, 75, 75);
+  }
+
+/* -----------------------------------------landing img--------------------------------------------- */
+
+.landing_img{
+    height:850px;
+    background-image: url("../img/landing.jpg");
+    background-size: cover;
+    background-position: 50% 50%; 
+    
+  }
+
+  .section_img{
+    background-image: url("../img/history.jpg");
+    background-size: cover;
+  }
+
+
+/* ----------------------------------------- subtitle --------------------------------------------- */
+
+  .subtitle{
+    background-color: black;
+    height: 200px;
+  }
+
+  .subtitle_text{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-right:20%;
+    margin-left:20%;
+    text-align:center;
+    padding-top: 50px;
+  }
+
+
+/* ----------------------------------------- history section title --------------------------------------------- */
+
+.section_title_img{
+    height:600px;
+    background-image: url("../img/history.jpg");
+    background-size: cover;
+  }
+
+  .section_title_text{
+    color: black;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    padding-left: 22.5%;
+    padding-top: 1%;
+  }
+
+
+/* ----------------------------------------- history --------------------------------------------- */
+
+.history{
+    background-color: black;
+    height: 3000px;
+  }
+
+  .history_text{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    margin-right:20%;
+    margin-left:15%;
+    padding-top: 50px;
+  }
+
+  .history_img{
+    width:100px;
+    height: 600px;
+    align-content: center;
+    margin: 5px;
+       
+  }
+
+
+  /* ----------------------------------------- footer --------------------------------------------- */
+
+  footer{
+    color:black;
+    background-color:white;
+    height: 100px;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    margin-right:20%;
+    margin-left:15%;
+    padding-top: 50px;
+  }

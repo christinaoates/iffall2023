@@ -100,7 +100,7 @@ li a:hover {
 
 .history{
     background-color: black;
-    height: 3000px;
+    height: 5300px;
   }
 
   .history_text{
@@ -113,10 +113,10 @@ li a:hover {
   }
 
   .history_img{
-    width:100px;
-    height: 600px;
+    width:400px;
     align-content: center;
     margin: 5px;
+    object-fit: scale-down;
        
   }
 

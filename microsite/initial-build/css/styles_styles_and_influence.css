@@ -1,0 +1,87 @@
+body { 
+    margin: 0;
+}
+
+
+/* -----------------------------------------nav bar--------------------------------------------- */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 27%;
+    overflow: hidden;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    font-size: 25px;
+    line-height: 60px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    
+  }
+  
+li {
+    float: left;
+    text-align: center;
+  }
+  
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+li a:hover {
+    background-color: black;
+    color: white;
+  }
+
+.active {
+    background-color: grey;
+    color: rgb(76, 75, 75);
+  }
+
+
+  /* -----------------------------------------landing img--------------------------------------------- */
+
+.landing_img{
+  height:850px;
+  background-image: url("../img/valentine.jpg");
+  background-size: cover;
+  background-position: 50% 50%; 
+}
+
+/* -----------------------------------------text--------------------------------------------- */
+
+.styles{
+    background-color: black;
+    height: 500px;
+}
+
+.text{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 25px;
+    margin-right:20%;
+    margin-left:20%;
+    text-align:center;
+    padding-top: 80px;
+    line-height: 30px;
+}
+
+
+ /* ----------------------------------------- footer --------------------------------------------- */
+
+ footer{
+  color:black;
+  background-color:white;
+  height: 100px;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  margin-right:20%;
+  margin-left:15%;
+  padding-top: 50px;
+}
